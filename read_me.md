@@ -1,0 +1,4 @@
+- 👋 Hi, I’m: Oliver
+- 👀 I’m interested in Girls:
+- 🌱 I’m currently learning: Python
+- 📫 How to reach me: My gmail is olikcz2010@gmail.com
